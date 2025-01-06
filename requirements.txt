@@ -1,0 +1,6 @@
+selenium
+pandas
+streamlit
+plotly
+mysql-connector-python
+streamlit-option-menu
